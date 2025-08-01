@@ -1,7 +1,9 @@
 // ==UserScript==
 // @name         华为心声社区内容屏蔽（含作者屏蔽）
+// @namespace    http://tampermonkey.net/
 // @version      0.1
-// @auther       __Brill__
+// @description  屏蔽华为心声社区中包含指定关键字或特定作者的内容
+// @match        https://xinsheng.huawei.com/next/*
 // ==/UserScript==
 
 (function() {
